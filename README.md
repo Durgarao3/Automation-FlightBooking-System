@@ -25,9 +25,9 @@ Make sure you have Python installed, then run:
 
 ```bash
 pip install selenium
+```
 
-
-###3.Run the automation script
+3.Run the automation script
 
 ```bash
 python flightbookings.py
