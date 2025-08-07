@@ -19,13 +19,19 @@ This is a Python automation project using **Selenium WebDriver** to simulate a f
 ```bash
 git clone https://github.com/Durgarao3/Automation-FlightBooking-System.git
 cd Automation-FlightBooking-System
-
+```
 ### 2.Install dependencies
 Make sure you have Python installed, then run:
+
+```bash
 pip install selenium
+```
 
 ###3.Run the automation script
+
+```bash
 python flightbookings.py
+```
 
 git add README.md
 git commit -m "Add project README"
@@ -36,8 +42,8 @@ git push
 ## 🧪 Notes
 
 - Ensure **Google Chrome** is installed.
-- Download the matching **ChromeDriver** version from:  
-  👉 [https://sites.google.com/chromium.org/driver/](https://sites.google.com/chromium.org/driver/)
+- - Download the matching **ChromeDriver** version from:  
+  👉 [https://sites.google.com/chromium.org/driver](https://sites.google.com/chromium.org/driver)
 
 ### ➕ Add ChromeDriver to Environment Path (Windows)
 
