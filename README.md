@@ -25,7 +25,7 @@ Make sure you have Python installed, then run:
 
 ```bash
 pip install selenium
-```
+
 
 ###3.Run the automation script
 
@@ -59,6 +59,7 @@ git push
 
 ```python
 driver = webdriver.Chrome(executable_path="C:/path/to/chromedriver.exe")
+```
 
 ## 🔗 Related Project
 
